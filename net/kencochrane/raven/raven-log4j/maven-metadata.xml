@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>net.kencochrane.raven</groupId>
+  <artifactId>raven-log4j</artifactId>
+  <versioning>
+    <versions>
+      <version>4.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20130429164810</lastUpdated>
+  </versioning>
+</metadata>
